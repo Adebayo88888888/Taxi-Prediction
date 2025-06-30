@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/7084ebfa3a8345389f07a0e6de69aafd/artifacts
+deleted_time: 1751259106275
+end_time: 1751258601522
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: deleted
+run_id: 7084ebfa3a8345389f07a0e6de69aafd
+run_name: gaudy-calf-126
+run_uuid: 7084ebfa3a8345389f07a0e6de69aafd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751258594474
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/7aeae0ae581242e891f57b67e3be61da/artifacts
+deleted_time: 1751259106272
+end_time: 1751258702971
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: deleted
+run_id: 7aeae0ae581242e891f57b67e3be61da
+run_name: abundant-cub-819
+run_uuid: 7aeae0ae581242e891f57b67e3be61da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751258695966
+status: 4
+tags: []
+user_id: codespace
