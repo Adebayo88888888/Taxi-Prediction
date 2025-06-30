@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/cd3f9a6bd64545c986b73ab676585b52/artifacts
+end_time: 1751259543059
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: cd3f9a6bd64545c986b73ab676585b52
+run_name: caring-pug-334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751259541890
+status: 3
+tags: []
+user_id: codespace
