@@ -1,0 +1,22 @@
+artifact_path: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/models/m-553cab173ade484988cb9a4d630cdb4e/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.1
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.core.Booster
+    model_format: xgb
+    xgb_version: 3.0.2
+mlflow_version: 3.1.1
+model_id: m-553cab173ade484988cb9a4d630cdb4e
+model_size_bytes: 3741212
+model_uuid: m-553cab173ade484988cb9a4d630cdb4e
+prompts: null
+run_id: 51862b4843c24a30963cdbd0ec341680
+utc_time_created: '2025-07-02 10:21:11.807901'

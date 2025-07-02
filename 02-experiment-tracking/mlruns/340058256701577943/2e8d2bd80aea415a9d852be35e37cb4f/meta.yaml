@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/2e8d2bd80aea415a9d852be35e37cb4f/artifacts
+end_time: 1751451095634
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 2e8d2bd80aea415a9d852be35e37cb4f
+run_name: tasteful-whale-146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751450982568
+status: 3
+tags: []
+user_id: codespace

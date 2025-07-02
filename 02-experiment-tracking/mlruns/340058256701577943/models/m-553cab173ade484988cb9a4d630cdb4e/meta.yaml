@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/models/m-553cab173ade484988cb9a4d630cdb4e/artifacts
+creation_timestamp: 1751451671801
+experiment_id: '340058256701577943'
+last_updated_timestamp: 1751451675213
+model_id: m-553cab173ade484988cb9a4d630cdb4e
+model_type: null
+name: xgb_model
+source_run_id: 51862b4843c24a30963cdbd0ec341680
+status: 2
+status_message: null

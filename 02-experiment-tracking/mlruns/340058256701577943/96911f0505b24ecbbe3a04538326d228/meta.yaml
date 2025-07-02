@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/96911f0505b24ecbbe3a04538326d228/artifacts
+end_time: 1751450332920
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 96911f0505b24ecbbe3a04538326d228
+run_name: clumsy-wolf-278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751450331728
+status: 3
+tags: []
+user_id: codespace
