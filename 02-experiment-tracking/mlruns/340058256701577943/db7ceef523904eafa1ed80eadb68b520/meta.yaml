@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/db7ceef523904eafa1ed80eadb68b520/artifacts
+end_time: 1751449486964
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: db7ceef523904eafa1ed80eadb68b520
+run_name: suave-grub-709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751449485785
+status: 3
+tags: []
+user_id: codespace

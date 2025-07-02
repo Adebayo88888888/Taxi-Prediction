@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/7f749220ae5c4355afa5797c06f22bc6/artifacts
+end_time: 1751447342730
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 7f749220ae5c4355afa5797c06f22bc6
+run_name: rogue-roo-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751447266091
+status: 3
+tags: []
+user_id: codespace

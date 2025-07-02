@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/57dca0b754f34f8f82249411edd2a6ef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 57dca0b754f34f8f82249411edd2a6ef
+run_name: bemused-roo-12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751440323969
+status: 1
+tags: []
+user_id: codespace

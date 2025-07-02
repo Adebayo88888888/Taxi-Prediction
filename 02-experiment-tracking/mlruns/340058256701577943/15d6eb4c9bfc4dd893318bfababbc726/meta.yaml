@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/15d6eb4c9bfc4dd893318bfababbc726/artifacts
+end_time: 1751447266085
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 15d6eb4c9bfc4dd893318bfababbc726
+run_name: calm-stork-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751446943741
+status: 3
+tags: []
+user_id: codespace

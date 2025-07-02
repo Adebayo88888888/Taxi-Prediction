@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/4368f2608b444c69a99e4b05164c0b57/artifacts
+end_time: 1751443963015
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 4368f2608b444c69a99e4b05164c0b57
+run_name: auspicious-wasp-18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751443963005
+status: 3
+tags: []
+user_id: codespace

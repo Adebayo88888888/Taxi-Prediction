@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/1fddcaad405d4093a95196da97709de6/artifacts
+end_time: 1751447627218
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 1fddcaad405d4093a95196da97709de6
+run_name: exultant-auk-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751447452288
+status: 3
+tags: []
+user_id: codespace

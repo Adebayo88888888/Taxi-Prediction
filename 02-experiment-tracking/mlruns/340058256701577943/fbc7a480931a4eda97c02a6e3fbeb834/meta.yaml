@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/fbc7a480931a4eda97c02a6e3fbeb834/artifacts
+end_time: 1751448167867
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: fbc7a480931a4eda97c02a6e3fbeb834
+run_name: angry-cow-743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751448063632
+status: 3
+tags: []
+user_id: codespace

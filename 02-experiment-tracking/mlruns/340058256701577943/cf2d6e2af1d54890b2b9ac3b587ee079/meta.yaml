@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/cf2d6e2af1d54890b2b9ac3b587ee079/artifacts
+end_time: 1751449409103
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: cf2d6e2af1d54890b2b9ac3b587ee079
+run_name: gregarious-goose-730
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751449407917
+status: 3
+tags: []
+user_id: codespace

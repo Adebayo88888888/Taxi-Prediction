@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/a7a4e158ba8e4a8d9c06b76d89b09eee/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: a7a4e158ba8e4a8d9c06b76d89b09eee
+run_name: grandiose-kite-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751446162600
+status: 1
+tags: []
+user_id: codespace

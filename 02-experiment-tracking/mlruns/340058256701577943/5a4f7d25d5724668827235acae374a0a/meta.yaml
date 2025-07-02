@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/5a4f7d25d5724668827235acae374a0a/artifacts
+end_time: 1751446575228
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 5a4f7d25d5724668827235acae374a0a
+run_name: adorable-turtle-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751446574039
+status: 3
+tags: []
+user_id: codespace

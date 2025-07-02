@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/a2ded3658107468d889612f9f57feb4b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: a2ded3658107468d889612f9f57feb4b
+run_name: funny-mink-771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751449454407
+status: 1
+tags: []
+user_id: codespace

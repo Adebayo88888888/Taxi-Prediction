@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/0fee8f0dabd348559e4a9bb616e69926/artifacts
+end_time: 1751445034533
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 0fee8f0dabd348559e4a9bb616e69926
+run_name: resilient-trout-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751443963017
+status: 3
+tags: []
+user_id: codespace

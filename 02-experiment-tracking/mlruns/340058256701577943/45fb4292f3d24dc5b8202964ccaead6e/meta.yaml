@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/340058256701577943/45fb4292f3d24dc5b8202964ccaead6e/artifacts
+end_time: 1751440313885
+entry_point_name: ''
+experiment_id: '340058256701577943'
+lifecycle_stage: active
+run_id: 45fb4292f3d24dc5b8202964ccaead6e
+run_name: big-turtle-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751440138799
+status: 3
+tags: []
+user_id: codespace
