@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/491611575862723516/63fa3f3e7af946d0be26b98f39dfd95f/artifacts
+end_time: 1751532439652
+entry_point_name: ''
+experiment_id: '491611575862723516'
+lifecycle_stage: active
+run_id: 63fa3f3e7af946d0be26b98f39dfd95f
+run_name: magnificent-kite-924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751532438440
+status: 3
+tags: []
+user_id: codespace

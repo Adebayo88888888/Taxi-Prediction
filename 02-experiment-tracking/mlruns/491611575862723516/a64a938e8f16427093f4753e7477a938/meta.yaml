@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/491611575862723516/a64a938e8f16427093f4753e7477a938/artifacts
+end_time: 1751533877646
+entry_point_name: ''
+experiment_id: '491611575862723516'
+lifecycle_stage: active
+run_id: a64a938e8f16427093f4753e7477a938
+run_name: luminous-kit-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751533858595
+status: 3
+tags: []
+user_id: codespace

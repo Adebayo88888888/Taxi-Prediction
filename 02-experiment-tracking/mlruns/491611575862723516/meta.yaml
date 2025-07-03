@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/491611575862723516
+creation_time: 1751532429915
+experiment_id: '491611575862723516'
+last_update_time: 1751532429915
+lifecycle_stage: active
+name: taxi-pred

@@ -1,0 +1,32 @@
+artifact_path: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/491611575862723516/models/m-64d93a63bcde4a19bb7f95112b1426f5/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.1
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.core.Booster
+    model_format: xgb
+    xgb_version: 3.0.2
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-64d93a63bcde4a19bb7f95112b1426f5
+model_size_bytes: 1358961
+model_uuid: m-64d93a63bcde4a19bb7f95112b1426f5
+prompts: null
+run_id: a64a938e8f16427093f4753e7477a938
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: sparse_matrix_csr
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 13221]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-03 09:11:14.897809'
