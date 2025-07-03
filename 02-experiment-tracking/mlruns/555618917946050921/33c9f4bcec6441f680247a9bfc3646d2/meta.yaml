@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/555618917946050921/33c9f4bcec6441f680247a9bfc3646d2/artifacts
+end_time: 1751498632346
+entry_point_name: ''
+experiment_id: '555618917946050921'
+lifecycle_stage: active
+run_id: 33c9f4bcec6441f680247a9bfc3646d2
+run_name: languid-bass-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751498631178
+status: 3
+tags: []
+user_id: codespace

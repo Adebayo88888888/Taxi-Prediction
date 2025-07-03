@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/555618917946050921/models/m-5e6f9edabf2e48849e3d55b05d449777/artifacts
+creation_timestamp: 1751501693374
+experiment_id: '555618917946050921'
+last_updated_timestamp: 1751501695952
+model_id: m-5e6f9edabf2e48849e3d55b05d449777
+model_type: null
+name: models_mlflow
+source_run_id: d4c4b052ad874bceb23194674c77bc6b
+status: 2
+status_message: null

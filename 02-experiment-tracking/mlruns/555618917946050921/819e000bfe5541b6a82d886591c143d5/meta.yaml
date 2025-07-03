@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/555618917946050921/819e000bfe5541b6a82d886591c143d5/artifacts
+end_time: 1751498453262
+entry_point_name: ''
+experiment_id: '555618917946050921'
+lifecycle_stage: active
+run_id: 819e000bfe5541b6a82d886591c143d5
+run_name: unique-dove-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751498433105
+status: 3
+tags: []
+user_id: codespace

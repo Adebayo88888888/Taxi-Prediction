@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/Taxi-Prediction/02-experiment-tracking/mlruns/555618917946050921/4ae74f9420fa49b99a39079151620205/artifacts
+end_time: 1751499856256
+entry_point_name: ''
+experiment_id: '555618917946050921'
+lifecycle_stage: active
+run_id: 4ae74f9420fa49b99a39079151620205
+run_name: thoughtful-loon-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751499738891
+status: 3
+tags: []
+user_id: codespace
